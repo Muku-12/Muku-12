@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hello, I'm Saswati Dutta
 
-<!--
-**Muku-12/Muku-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech-driven professional with hands-on experience in **enterprise IT tools** and a passion for making sense of business data.  
+Currently transitioning into **Business Analysis (BA)** and **Data Analysis (DA)** with a strong interest in **AI-powered finance solutions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Professional Experience
+
+- 💻 Technical Support Engineer with expertise in:
+  - Remote Tools: **Zoho Assist**, **BeyondTrust**
+  - IT Management: **Active Directory**, **Azure AD**, **IAM tools**
+  - Scripting & Automation: **PowerShell**
+  - Infrastructure: **Networking (DNS, DHCP)**, **SaaS administration**
+  - Enterprise Platforms: **Oracle HCM**, **ServiceNow**
+
+---
+
+## 🔍 Current Learning Focus
+
+- 📊 **Data Analysis** using Python, Pandas, and Excel
+- 🤖 **Business Analysis**: Requirements gathering, stakeholder communication, process improvement
+- 🧠 **GenAI & Chatbots** for financial data applications
+- 🧾 SEC 10-K financial statement extraction and trend analysis
+
+---
+
+## 📌 Featured Project
+
+### [💬 Financial Chatbot](https://github.com/Muku-12/financial-chatbot)
+> A simple Python-based chatbot that answers predefined financial queries using real data from Microsoft's 10-K filings.  
+> Includes trend analysis via Jupyter Notebook and serves as a proof-of-concept for financial conversational AI.
+
+---
+
+## 🚀 Goals
+
+- 🎯 Break into **consulting**, **analytics**, or **BA roles**
+- 💬 Use tech to bridge the gap between data, business, and users
+- 📚 Build a strong portfolio on GitHub & LinkedIn
+
+---
+
+## 🤝 Let's Connect
+
+📍 Based in India  
+🔗 [LinkedIn](https://www.linkedin.com/in/saswati-dutta-867b595a)  
+📧 [youremail@example.com](mailto:duttapinky029@gmail.com)
+
+---
+
+> “Tech is a tool, but insight is the outcome I aim for.”
