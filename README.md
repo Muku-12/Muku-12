@@ -44,8 +44,8 @@ Currently transitioning into **Business Analysis (BA)** and **Data Analysis (DA)
 ## 🤝 Let's Connect
 
 📍 Based in India  
-🔗 [LinkedIn](https://www.linkedin.com/in/saswati-dutta-867b595a)  
-📧 [youremail@example.com](mailto:duttapinky029@gmail.com)
+🔗 [https://www.linkedin.com/in/saswati-dutta-867b595a]  
+📧 [duttapinky029@gmail.com]
 
 ---
 
